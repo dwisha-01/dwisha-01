@@ -25,7 +25,7 @@
 └──────────────────────────────────────────────┘
 ```
 
-## `02 // ABOUT ME`
+## `02  ABOUT ME`
 
 I am an Information Technology undergraduate passionate about software development and the evolving field of Artificial Intelligence.
 
