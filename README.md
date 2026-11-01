@@ -11,7 +11,7 @@
 
 ---
 
-## `01 // SYSTEM STATUS`
+## `01 SYSTEM STATUS`
 
 ```text
 ┌──────────────────────────────────────────────┐
@@ -25,7 +25,7 @@
 └──────────────────────────────────────────────┘
 ```
 
-## `02  ABOUT ME`
+## `02 ABOUT ME`
 
 I am an Information Technology undergraduate passionate about software development and the evolving field of Artificial Intelligence.
 
@@ -40,7 +40,7 @@ My interests span across intelligent systems, backend development and creating t
 - Computer Vision
 - Data Structures & Algorithms
 
-## `03 // PROJECT DATABASE`
+## `03 PROJECT DATABASE`
 
 <table>
 <tr>
@@ -92,7 +92,7 @@ A growing collection of applications and technical projects focused on intellige
 </tr>
 </table>
 
-## `04 // TECHNOLOGY STACK`
+## `04 TECHNOLOGY STACK`
 
 <div align="center">
 
@@ -106,7 +106,7 @@ A growing collection of applications and technical projects focused on intellige
 
 </div>
 
-## `05 // GITHUB ANALYTICS`
+## `05 GITHUB ANALYTICS`
 
 <div align="center">
 
@@ -120,7 +120,7 @@ A growing collection of applications and technical projects focused on intellige
 
 </div>
 
-## `06 // CURRENT FOCUS`
+## `06 CURRENT FOCUS`
 
 - Deepening my understanding of Agentic AI and LangGraph
 - Exploring RAG architectures and vector databases
@@ -128,7 +128,7 @@ A growing collection of applications and technical projects focused on intellige
 - Improving my understanding of Data Structures and Algorithms
 - Developing scalable and intelligent software applications
 
-## `07 // ESTABLISH CONNECTION`
+## `07 ESTABLISH CONNECTION`
 
 <div align="center">
 
