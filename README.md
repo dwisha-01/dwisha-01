@@ -1,11 +1,11 @@
 
-<!-- ================= DWISHA.OS ================= -->
+<!-- ================= DWISHA GADA ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050816,50:312E81,100:06B6D4&height=200&section=header&text=DWISHA.OS&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=An%20engineer%20building%20intelligent%20things&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050816,50:312E81,100:06B6D4&height=200&section=header&text=DWISHA%20GADA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Development%20%7C%20Artificial%20Intelligence&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=Booting+DWISHA.OS...;Loading+AI+experiments...;Building+systems%2C+not+just+projects.;Welcome+to+my+development+lab." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=Turning+ideas+into+intelligent+solutions.;Exploring+the+possibilities+of+AI.;Developing+software+with+purpose.;Always+learning.+Always+evolving." />
 
 </div>
 
@@ -15,38 +15,30 @@
 
 ```text
 ┌──────────────────────────────────────────────┐
-│ DWISHA.OS              SYSTEM STATUS: ONLINE │
+│ DWISHA GADA                    STATUS: ONLINE│
 ├──────────────────────────────────────────────┤
-│ USER       : Dwisha Gada                     │
-│ ROLE       : IT Engineering Student          │
-│ INTERESTS  : AI / Software / Development     │
-│ MODE       : BUILDING & EXPERIMENTING        │
-│ LOCATION   : Mumbai, India                   │
-├──────────────────────────────────────────────┤
-│ CURRENT OBJECTIVE                            │
-│ Exploring Agentic AI, RAG and intelligent    │
-│ software systems.                            │
+│ PROFILE    : Information Technology          │
+│ DOMAIN     : Software Development & AI       │
+│ INTERESTS  : Intelligent Systems              │
+│ FOCUS      : Building Meaningful Technology   │
+│ LOCATION   : Mumbai, India                    │
 └──────────────────────────────────────────────┘
 ```
 
-## `02 // OPEN TERMINAL`
+## `02 // ABOUT ME`
 
-```bash
-$ whoami
+I am an Information Technology undergraduate passionate about software development and the evolving field of Artificial Intelligence.
 
-An engineering student who enjoys building things,
-exploring different technologies and learning by doing.
+I enjoy understanding how things work, exploring different perspectives and translating ideas into meaningful applications.
 
-$ cat current_interests.txt
+My interests span across intelligent systems, backend development and creating technology that addresses real-world challenges.
 
-- Generative AI & Agentic AI
-- Retrieval Augmented Generation (RAG)
-- Backend Engineering
+**Areas of Interest**
+- Artificial Intelligence & Generative AI
+- Agentic AI and Multi-Agent Systems
+- Backend & Full-Stack Development
 - Computer Vision
-- System Design
-
-$ ./start_experiment.sh
-```
+- Data Structures & Algorithms
 
 ## `03 // PROJECT DATABASE`
 
@@ -58,9 +50,9 @@ $ ./start_experiment.sh
 
 `AI / FULL STACK`
 
-An AI-powered career guidance platform with readiness analysis, skill gap identification and personalized roadmaps.
+An AI-powered career guidance platform that provides career readiness analysis, identifies skill gaps and generates personalized learning roadmaps.
 
-<a href="https://careergps-ai.onrender.com">↗ Launch application</a>
+<a href="https://careergps-ai.onrender.com">↗ Explore Project</a>
 
 </td>
 <td width="50%" valign="top">
@@ -69,12 +61,13 @@ An AI-powered career guidance platform with readiness analysis, skill gap identi
 
 `AI / DEVELOPER TOOLS`
 
-An intelligent repository exploration system that explains codebases, architecture, dependencies and code relationships.
+An intelligent codebase exploration platform that analyzes repositories and explains architecture, dependencies, code relationships and execution flow.
 
-<a href="https://github.com/dwisha-01">↗ Explore repositories</a>
+<a href="https://github.com/dwisha-01">↗ Explore Repository</a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -82,30 +75,38 @@ An intelligent repository exploration system that explains codebases, architectu
 
 `COMPUTER VISION`
 
-A retail analytics platform exploring multi-camera tracking, persistent identities and real-time crowd analytics.
+A computer vision-based retail analytics platform focused on multi-camera tracking, persistent identities and real-time crowd analytics.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧪 Future Experiments
+### ✨ More Projects
 
-`RESEARCH / DEVELOPMENT`
+`SOFTWARE / AI`
 
-Exploring agentic workflows, intelligent retrieval systems and new ways to build AI-powered applications.
+A growing collection of applications and technical projects focused on intelligent systems, practical software development and emerging technologies.
+
+<a href="https://github.com/dwisha-01?tab=repositories">↗ View All Repositories</a>
 
 </td>
 </tr>
 </table>
 
-## `04 // TECHNOLOGY MODULES`
+## `04 // TECHNOLOGY STACK`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,fastapi,mongodb,mysql,html,css,git,github,figma&perline=7" />
+### Languages & Development
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,fastapi&perline=5" />
+
+### Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,figma,vscode&perline=6" />
 
 </div>
 
-## `05 // LIVE SYSTEM METRICS`
+## `05 // GITHUB ANALYTICS`
 
 <div align="center">
 
@@ -113,23 +114,19 @@ Exploring agentic workflows, intelligent retrieval systems and new ways to build
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwisha-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=67E8F9&text_color=CBD5E1" />
 
+<br/>
+
 <img width="90%" src="https://streak-stats.demolab.com?user=dwisha-01&theme=tokyonight&hide_border=true&background=050816&ring=67E8F9&fire=C084FC&currStreakLabel=67E8F9" />
 
 </div>
 
-## `06 // CURRENT MISSION LOG`
+## `06 // CURRENT FOCUS`
 
-<details>
-<summary><b>▶ View active missions</b></summary>
-
-- [x] Build and deploy CareerGPS AI
-- [x] Develop repository analysis capabilities
-- [x] Explore computer vision and object tracking
-- [ ] Build more advanced Agentic AI workflows
-- [ ] Explore LangGraph and multi-agent systems
-- [ ] Keep experimenting and shipping projects
-
-</details>
+- Deepening my understanding of Agentic AI and LangGraph
+- Exploring RAG architectures and vector databases
+- Strengthening backend engineering fundamentals
+- Improving my understanding of Data Structures and Algorithms
+- Developing scalable and intelligent software applications
 
 ## `07 // ESTABLISH CONNECTION`
 
@@ -138,6 +135,7 @@ Exploring agentic workflows, intelligent retrieval systems and new ways to build
 <a href="https://github.com/dwisha-01">
 <img src="https://img.shields.io/badge/GitHub-Explore_My_Code-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -146,6 +144,10 @@ Exploring agentic workflows, intelligent retrieval systems and new ways to build
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:06B6D4&height=100&section=footer"/>
 
-<sub>DWISHA.OS // END OF TRANSMISSION // KEEP BUILDING.</sub>
+<sub>Turning curiosity into code, and ideas into impact.</sub>
+
+<br/>
+
+<sub>DWISHA GADA © 2026</sub>
 
 </div>
